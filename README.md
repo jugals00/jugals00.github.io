@@ -1,3 +1,5 @@
+{{github_username}}
+
 ## Welcome to GitHub Pages
 
 Tu can use the [editor on GitHub](https://github.com/jugals00/jugals00.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
