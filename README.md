@@ -1,6 +1,6 @@
 {{github_username}}
 
-{%for post in post%}
+{%for post in site.posts%}
 <p>{{post.title}}</p>
 {%endfor%}
 ## Welcome to GitHub Pages
